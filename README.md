@@ -1,4 +1,5 @@
-# Applitools Tutorial - Images Python
+# Applitools: PDF -> Images Python
+This project converts a PDF file into images, which can then be checked with Applitools via our Images SDK. 
 
 Get started with Applitools Eyes visual testing with this basic example of using the Python and the Eyes Images SDK.
 
