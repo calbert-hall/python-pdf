@@ -1,0 +1,2 @@
+eyes-images>=4.25.2
+pytest

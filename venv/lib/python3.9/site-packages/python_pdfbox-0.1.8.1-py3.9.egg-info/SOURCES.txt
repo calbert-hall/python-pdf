@@ -1,0 +1,19 @@
+.gitignore
+AUTHORS.rst
+LICENSE.rst
+Makefile
+README.rst
+setup.cfg
+setup.py
+pdfbox/__init__.py
+python_pdfbox.egg-info/PKG-INFO
+python_pdfbox.egg-info/SOURCES.txt
+python_pdfbox.egg-info/dependency_links.txt
+python_pdfbox.egg-info/requires.txt
+python_pdfbox.egg-info/top_level.txt
+tests/test space.pdf
+tests/test.md
+tests/test.pdf
+tests/test2.pdf
+tests/test3.pdf
+tests/test_pdfbox.py
