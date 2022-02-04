@@ -7,6 +7,8 @@ import pdfbox
 from applitools.images import Eyes, BatchInfo, logger
 
 logger.set_logger(logger.StdoutLogger())
+#Alt to log to output file:
+#logger.set_logger(logger.FileLogger("output.txt"))
 
 @pytest.fixture(name="eyes", scope="function")
 def eyes_setup():
